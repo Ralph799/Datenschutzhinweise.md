@@ -20,3 +20,5 @@ Es erfolgt keine Speicherung der Daten durch den GPT oder den Betreiber.
 ## Datensicherheit:
 Alle Anfragen und Antworten werden verschlüsselt übertragen.
 Es werden keine persönlichen Daten gesammelt. Es erfolgt keine Weitergabe an unbefugte Dritte.
+## Weitere Informationen
+[Datenschutzhinweis](PRIVACY.md)
